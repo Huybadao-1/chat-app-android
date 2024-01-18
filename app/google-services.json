@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895480993994",
+    "project_id": "huy-chat-a7682",
+    "storage_bucket": "huy-chat-a7682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895480993994:android:baa7a2895de5fc43b83c33",
+        "android_client_info": {
+          "package_name": "com.example.huychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NpXqYX9Pz1KJnP-V-ndMiCnEJv4KMfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
